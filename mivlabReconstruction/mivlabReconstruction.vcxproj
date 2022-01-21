@@ -146,7 +146,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="joinMap.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="pointcloud.cpp" />
   </ItemGroup>
